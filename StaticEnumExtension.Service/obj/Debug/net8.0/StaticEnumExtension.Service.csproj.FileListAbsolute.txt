@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\bin\Debug\net8.0\StaticEnumExtension.Service.deps.json
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\bin\Debug\net8.0\StaticEnumExtension.Service.dll
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\bin\Debug\net8.0\StaticEnumExtension.Service.pdb
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\obj\Debug\net8.0\StaticEnumExtension.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\obj\Debug\net8.0\StaticEnumExtension.Service.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\obj\Debug\net8.0\StaticEnumExtension.Service.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\obj\Debug\net8.0\StaticEnumExtension.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\obj\Debug\net8.0\StaticEnumExtension.Service.dll
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\obj\Debug\net8.0\refint\StaticEnumExtension.Service.dll
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\obj\Debug\net8.0\StaticEnumExtension.Service.pdb
+C:\Users\User\OneDrive\İş masası\Static\StaticEnumExtension\StaticEnumExtension.Service\obj\Debug\net8.0\ref\StaticEnumExtension.Service.dll
